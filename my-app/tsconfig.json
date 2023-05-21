@@ -8,8 +8,7 @@
     "paths": {
       "my-app/tests/*": ["tests/*"],
       "my-app/*": ["app/*"],
-      "*": ["types/*"],
-      "my-addon/*": ["node_modules/my-addon/addon/*"]
+      "*": ["types/*"]
     }
   },
   "include": ["app/**/*", "tests/**/*", "types/**/*"]
