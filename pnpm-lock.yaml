@@ -9,6 +9,9 @@ importers:
       '@auth0/auth0-spa-js':
         specifier: ^2.0.4
         version: 2.0.4
+      ember-auto-import:
+        specifier: ^2.6.3
+        version: 2.6.3(webpack@5.78.0)
       ember-cached-decorator-polyfill:
         specifier: ^1.0.1
         version: 1.0.1(@babel/core@7.21.8)(ember-source@4.12.0)
@@ -124,9 +127,6 @@ importers:
       concurrently:
         specifier: ^8.0.1
         version: 8.0.1
-      ember-auto-import:
-        specifier: ^2.6.3
-        version: 2.6.3(webpack@5.78.0)
       ember-cli:
         specifier: ~4.12.1
         version: 4.12.1
